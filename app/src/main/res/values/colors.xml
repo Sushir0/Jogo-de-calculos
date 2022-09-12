@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="corBGCima">#00bbf0</color>
+    <color name="corBGBaixo">#0061AA</color>
+
+    <color name="textColor">#1C1C1C</color>
+
+
+    <color name="colorPrimary">#1E7496</color>
+    <color name="colorPrimaryVariant">#2B91BA</color>
+    <color name="teal_200">#1B8CC8</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="black_transparente">#32000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="Yellow">#DF790B</color>
+</resources>

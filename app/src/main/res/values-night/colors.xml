@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="corBGCima">#00487E</color>
+    <color name="corBGBaixo">#001920</color>
+
+    <color name="textColor">#E1E1E1</color>
+    <color name="hint">#E4E4E4</color>
+
+    <color name="secondaryText">#D3D3D3</color>
+</resources>
